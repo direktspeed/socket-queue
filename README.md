@@ -1,5 +1,6 @@
 # socket-queue
 A Framework to build Distributed Socket Clusters and Workers. Ex: Distributed worker Pool
+Supports persistence via DB Integration can be also in Memory or Loosy
 
 ## Usage
 Thread 1
